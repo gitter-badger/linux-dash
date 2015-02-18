@@ -1,5 +1,7 @@
 # Linux Dash
 
+[![Join the chat at https://gitter.im/linux-dash/linux-dash](https://badges.gitter.im/Join%20Chat.svg)](https://gitter.im/linux-dash/linux-dash?utm_source=badge&utm_medium=badge&utm_campaign=pr-badge&utm_content=badge)
+
 A simple, low-overhead web dashboard for GNU / Linux. (~1MB)
 
 [**DEMO**](http://linuxdash.afaqtariq.com) | [**Installation Instructions**](#installation)
